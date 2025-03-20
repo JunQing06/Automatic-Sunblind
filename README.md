@@ -1,5 +1,5 @@
 # Automatic-Sunblind
-**Introduction**
+**Introduction**\n
 Automatic Sunblind is an IoT-based project developed for our Year 1 Semester 1 Introduction to Electrical Engineering course. The system uses an ESP32 microcontroller, DHT22 sensor, and Telegram bot to control a sunblind.
 
 **Features**
