@@ -16,9 +16,9 @@ unsigned long long lastTimeHRead = 0;
 float temp = 0.0;
 float humidity = 0.0;
 const char *ssid = "Ok";
-const char *password = "Ooi";
-#define CHAT_ID "1513532791"
-#define BOTtoken "7898979256:AAHPmY23eai--9UmGMVuK3ISuophuKLjQ_M"
+const char *password = "";
+#define CHAT_ID ""
+#define BOTtoken "M"
 String apiKey = "GKHZZ1ARSR7N2TDE";
 String url = "https://api.thingspeak.com/update";
 String message;
